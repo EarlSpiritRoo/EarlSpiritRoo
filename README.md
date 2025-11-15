@@ -1,5 +1,5 @@
-##  Hi there ≽^⎚˕⎚^≼ 
-# 🌸⋆｡˚ ✦ Hi, I’m Lina ✦ ˚｡⋆🌸 
+##  Hi there ≽^⎚˕⎚^≼ 🐾
+# 🦉⋆｡˚ ✦ Hi, I’m Lina ✦ ˚｡⋆🦉
 A Computer Science student and aspiring developer who’s building small tools, experimenting with web tech, and slowly leveling up one commit at a time.
 - 🧠 MSc Computer Science student  
 - 💻 E-commerce & customer service human slowly mutating into a dev  
@@ -8,7 +8,7 @@ A Computer Science student and aspiring developer who’s building small tools, 
 
 ---
 
-### 🛠 Tech I’m playing with
+### 🐫 Tech I’m playing with
  
  - HTML, CSS, JavaScript  
 - Shopify / Liquid  
@@ -17,7 +17,7 @@ A Computer Science student and aspiring developer who’s building small tools, 
  
 ---
 
-### 📈 What I’m focusing on now
+### 🦔 What I’m focusing on now
 
 - Building small but complete web apps  
 - Getting comfortable reading other people’s code  
