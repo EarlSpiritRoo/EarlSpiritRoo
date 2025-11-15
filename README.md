@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Lina 🐇 // EarlSpiritRoo
+
+Having fun doing things in the shadow.  
+
+- 🧠 MSc Computer Science student  
+- 💻 E-commerce & customer service human slowly mutating into a dev  
+- 🧪 Currently building: **Sidekick** – a customer service helper for social media responses  
+- 🎯 Goal: become a solid web dev who can ship useful tools, not just pretty GitHub squares  
+
+---
+
+### 🛠 Tech I’m playing with
+
+- HTML, CSS, JavaScript  
+- Shopify / Liquid  
+- APIs + AI tools for automation  
+- GitHub Pages for small web apps
+
+---
+
+### 📈 What I’m focusing on now
+
+- Building small but complete web apps  
+- Getting comfortable reading other people’s code  
+- Contributing tiny fixes/docs to open source
+
+> “No zero days. Even 1 line of progress counts.”
+
