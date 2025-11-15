@@ -1,6 +1,6 @@
 ##  𝓗𝓮𝓵𝓵𝓸 🌊
 
-# 🦉⋆｡˚ ✦ I’m Lina? You can call me Moose too ✦ ˚｡⋆🦉
+# 🦉⋆｡˚ ✦ I’m Lina ✦ ˚｡⋆
 A Computer Science student and aspiring developer who’s building small tools, experimenting with web tech, and slowly leveling up one commit at a time.
 - MSc Computer Science student  
 - E-commerce & customer service human slowly mutating into a dev  
