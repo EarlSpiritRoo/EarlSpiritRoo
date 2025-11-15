@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->⠀⠀⠀⠀⠀
-💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿
 # 🌸⋆｡˚ ✮ *Lina ／ EarlSpiritRoo* ˚｡⋆🌸  
 
 - 🧠 MSc Computer Science student  
@@ -37,5 +36,5 @@ Here are some ideas to get you started:
 - Contributing tiny fixes/docs to open source
 
 > “No zero days. Even 1 line of progress counts.”
-> 💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿💜✿
+
 
