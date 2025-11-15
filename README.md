@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
-# Lina ✮
+# 🌸⋆｡˚ ✮ 𖦹 *Lina ／ EarlSpiritRoo* 𖦹 ✮ ˚｡⋆🌸  
+*doing things in the shadow, quietly becoming dangerous.*
+
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,github,git,python" />
-
+  <img src="https://i.imgur.com/8b0Yx7A.gif" width="200" alt="anime typing gif"/>
 </div>
+
 - 🧠 MSc Computer Science student  
 - 💻 E-commerce & customer service human slowly mutating into a dev  
 - 🧪 Currently building: **Sidekick**. A customer service helper for social media responses  
