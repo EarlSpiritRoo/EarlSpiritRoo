@@ -1,4 +1,4 @@
-##  ⊹₊ ˚‧︵‿₊୨ Hi there ୧₊‿︵‧ ˚ ₊⊹
+##  Hi there ≽^⎚˕⎚^≼ 
 
 <!--
 **EarlSpiritRoo/EarlSpiritRoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠 Tech I’m playing with
-<div align="center">
-- HTML, CSS, JavaScript  
+ 
+ - HTML, CSS, JavaScript  
 - Shopify / Liquid  
 - APIs + AI tools for automation  
 - GitHub Pages for small web apps
-</div>
+ 
 ---
 
 ### 📈 What I’m focusing on now
