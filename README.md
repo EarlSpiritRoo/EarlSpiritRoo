@@ -1,6 +1,6 @@
 ##  𝓗𝓮𝓵𝓵𝓸 🌊
 
-# 🦉⋆｡˚ ✦ I’m Min ✦ ˚｡⋆🦉
+# 🦉⋆｡˚ ✦ I’m Mean ✦ ˚｡⋆🦉
 A Computer Science student and aspiring developer who’s building small tools, experimenting with web tech, and slowly leveling up one commit at a time.
 - MSc Computer Science student  
 - E-commerce & customer service human slowly mutating into a dev  
