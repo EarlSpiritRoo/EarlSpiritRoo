@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
-# 🌸⋆｡˚ ✮ 𖦹 *Lina ／ EarlSpiritRoo* 𖦹 ✮ ˚｡⋆🌸  
-*doing things in the shadow, quietly becoming dangerous.*
+# 🌸⋆｡˚ ✮ *Lina ／ EarlSpiritRoo* ˚｡⋆🌸  
 
 <div align="center">
-  <img src="https://i.imgur.com/8b0Yx7A.gif" width="200" alt="anime typing gif"/>
+  <img src="[https://i.imgur.com/8b0Yx7A.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdeathnote%2Fcomments%2Fr9xize%2Fone_could_argue_that_l_is_the_reason_why_light%2F&psig=AOvVaw0PtLMHQ3r0y5Yfc7WVjGjk&ust=1763309485797000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDF6vTF9JADFQAAAAAdAAAAABAj)" width="200" alt="anime typing gif"/>
 </div>
 
 - 🧠 MSc Computer Science student  
