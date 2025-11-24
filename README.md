@@ -24,6 +24,6 @@ A Computer Science student and aspiring developer who’s building small tools, 
 - Getting comfortable reading other people’s code  
 - Contributing tiny fixes/docs to open source
 
-> “No zero days. Even 1 line of progress counts.”
+> “You see, sometimes friends have to go away, but a part of them stays behind with you.”
 
 
