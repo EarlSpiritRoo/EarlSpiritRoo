@@ -1,11 +1,8 @@
 ##  𝓗𝓮𝓵𝓵𝓸 🌊
 
 # 🦉⋆｡˚ ✦ I’m 7L ✦ ˚｡⋆
-A Computer Science student and aspiring developer who’s building small tools, experimenting with web tech, and slowly leveling up one commit at a time.
-- MSc Computer Science student  
-- E-commerce & customer service human slowly mutating into a dev  
-- Currently building: a customer service helper for social media responses & other workflow automations
-- Goal: become a solid web dev who can ship useful tools, not just pretty GitHub squares  
+A Computer Science student and aspiring developer who’s building small tools, experimenting with web tech, and slowly leveling up one commit at a time.  
+- Goal: L 
 
 ---
 
