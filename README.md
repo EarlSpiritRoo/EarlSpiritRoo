@@ -2,7 +2,7 @@
 
 # 🦉⋆｡˚ ✦ I’m 7L ✦ ˚｡⋆
 A Computer Science student and developer who’s building tools, experimenting with web tech, and slowly leveling up one commit at a time.  
-- Goal:  
+- Goal: 10/10
 
 ---
 
