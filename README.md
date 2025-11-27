@@ -1,8 +1,8 @@
 ##  𝓗𝓮𝓵𝓵𝓸 🌊
 
 # 🦉⋆｡˚ ✦ I’m 7L ✦ ˚｡⋆
-A Computer Science student and aspiring developer who’s building small tools, experimenting with web tech, and slowly leveling up one commit at a time.  
-- Goal: L 
+A Computer Science student and developer who’s building tools, experimenting with web tech, and slowly leveling up one commit at a time.  
+- Goal:  
 
 ---
 
@@ -10,9 +10,8 @@ A Computer Science student and aspiring developer who’s building small tools, 
  
  - HTML, CSS, JavaScript  
 - Shopify / Liquid  
-- APIs + AI tools for automation  
-- GitHub Pages for small web apps
- 
+- APIs + AI tools for automation
+   
 ---
 
 ### 🦔 What I’m focusing on now
