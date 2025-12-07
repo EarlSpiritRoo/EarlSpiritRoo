@@ -1,7 +1,7 @@
 ##  𝓗𝓮𝓵𝓵𝓸 🌊
 
 # 🦉⋆｡˚ ✦ I’m 7L ✦ ˚｡⋆
-A Computer Science student and developer who’s building tools, experimenting with web tech, and slowly leveling up one commit at a time.  
+A Computer Science student and developer who’s building tools, experimenting with web tech, and leveling up one commit at a time.  
 ---
 
 ### 🐫 Tech I’m playing with
