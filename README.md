@@ -1,6 +1,6 @@
 ##  𝓗𝓮𝓵𝓵𝓸 🌊
 
-# 🦉⋆｡˚ ✦ I’m 7L ✦ ˚｡⋆
+# 🦉⋆｡˚ ✦ I’m not Susu ✦ ˚｡⋆
 A Computer Science student and developer who’s building tools, experimenting with web tech, and leveling up one commit at a time.  
 ---
 
