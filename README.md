@@ -32,6 +32,5 @@ A Computer Science student focused on building small, complete systems from fron
 - Contributing tiny fixes/docs to open source
 
 > *You see, sometimes friends have to go away, but a part of them stays behind with you.*  
-> — memory, code, and persistence
 
 
