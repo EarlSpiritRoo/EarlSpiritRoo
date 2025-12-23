@@ -11,7 +11,7 @@ A Computer Science student and developer who’s building tools, experimenting w
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer"/>
 </p>
 
-### 🐫 Tech I’m playing with
+### 🌌 Tech I’m playing with
  
  - HTML, CSS, JavaScript  
 - Shopify / Liquid  
@@ -21,7 +21,7 @@ A Computer Science student and developer who’s building tools, experimenting w
   <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=footer"/>
 </p>
 
-### 🦔 What I’m focusing on now
+### 🧠 What I’m focusing on now
 
 - Building small but complete web apps  
 - Getting comfortable reading other people’s code  
