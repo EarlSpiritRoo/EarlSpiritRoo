@@ -5,7 +5,7 @@
 ![Web Dev](https://img.shields.io/badge/Web-Developer-2563EB?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Status-Building%20Quietly-38BDF8?style=for-the-badge)
 
-A Computer Science student and developer who’s building tools, experimenting with web tech, and leveling up one commit at a time. 
+A Computer Science student focused on building small, complete systems from frontend interfaces to automation workflows. Learning by shipping, breaking, and fixing.
 --
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer"/>
