@@ -1,6 +1,10 @@
 ##  𝓗𝓮𝓵𝓵𝓸 🌊
 
 # 🦉⋆｡˚ ✦ I’m Yasmine ✦ ˚｡⋆
+![CS Student](https://img.shields.io/badge/Computer%20Science-Student-7C3AED?style=for-the-badge)
+![Web Dev](https://img.shields.io/badge/Web-Developer-2563EB?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Status-Building%20Quietly-38BDF8?style=for-the-badge)
+
 A Computer Science student and developer who’s building tools, experimenting with web tech, and leveling up one commit at a time. 
 --
 <p align="center">
