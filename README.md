@@ -1,7 +1,7 @@
-##  𝓗𝓮𝓵𝓵𝓸 🌊
+##  𝓗𝓮𝓵𝓵𝓸
 
 <h1 align="center">
-  <span style="color:#EC4899;">🦉⋆｡˚ ✦ I’m Yasmine ✦ ˚｡⋆</span>
+  <span style="color:#EC4899;">✦ I’m Yasmine ✦</span>
 </h1>
 
 ![CS Student](https://img.shields.io/badge/Computer%20Science-Student-7C3AED?style=for-the-badge)
