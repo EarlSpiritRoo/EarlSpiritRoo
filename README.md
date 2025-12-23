@@ -1,7 +1,8 @@
 ##  𝓗𝓮𝓵𝓵𝓸 🌊
 
 # 🦉⋆｡˚ ✦ I’m Yasmine ✦ ˚｡⋆
-A Computer Science student and developer who’s building tools, experimenting with web tech, and leveling up one commit at a time.  
+A Computer Science student and developer who’s building tools, experimenting with web tech, and leveling up one commit at a time. 
+--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer"/>
 </p>
