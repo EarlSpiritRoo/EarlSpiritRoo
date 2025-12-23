@@ -2,7 +2,6 @@
 
 # 🦉⋆｡˚ ✦ I’m Yasmine ✦ ˚｡⋆
 A Computer Science student and developer who’s building tools, experimenting with web tech, and leveling up one commit at a time.  
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer"/>
 </p>
@@ -13,7 +12,9 @@ A Computer Science student and developer who’s building tools, experimenting w
 - Shopify / Liquid  
 - APIs + AI tools for automation
    
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=footer"/>
+</p>
 
 ### 🦔 What I’m focusing on now
 
