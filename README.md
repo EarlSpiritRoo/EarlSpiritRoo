@@ -1,4 +1,4 @@
-<h2 align="center"> ₍^. .^₎⟆ </h2>
+<h2 align="center"> 𐔌՞. .՞𐦯 </h2>
 
 <h1 align="center"> I'm Yasmine </h1> 
 
@@ -13,7 +13,7 @@ A Computer Science student focused on building small, complete systems from fron
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&section=footer"/>
 </p>
 
-### 🌌 Current Stack
+### 🌌 Current Stack 
 ![HTML](https://img.shields.io/badge/HTML-7C3AED?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-2563EB?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-38BDF8?style=flat-square)
