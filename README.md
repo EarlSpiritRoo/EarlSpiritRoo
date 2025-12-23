@@ -1,8 +1,6 @@
 ##  𝓗𝓮𝓵𝓵𝓸
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🦉⋆｡˚%20✦%20I’m%20Yasmine%20✦%20˚｡⋆-EC4899?style=for-the-badge&labelColor=00000000" />
-</p>
+<h1 align="center"> I'm Yasmine </h1> 
 
 
 ![CS Student](https://img.shields.io/badge/Computer%20Science-Student-7C3AED?style=for-the-badge)
