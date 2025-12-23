@@ -12,7 +12,11 @@ A Computer Science student focused on building small, complete systems from fron
 </p>
 
 ### 🌌 Tech I’m playing with
- 
+ ![HTML](https://img.shields.io/badge/HTML-7C3AED?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-2563EB?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-38BDF8?style=flat-square)
+![Shopify](https://img.shields.io/badge/Shopify%20Liquid-7C3AED?style=flat-square)
+
  - HTML, CSS, JavaScript  
 - Shopify / Liquid  
 - APIs + AI tools for automation
