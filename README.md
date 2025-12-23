@@ -1,4 +1,4 @@
-<h2 align="center">  🌼🌸🍀 </h2>
+<h2 align="center">  ｡ ₊°༺❤︎༻°₊ ｡ </h2>
 
 <h1 align="center"> I'm Yasmine </h1> 
 
