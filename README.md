@@ -33,4 +33,4 @@ A Computer Science student focused on building small, complete systems from fron
 
 > *You see, sometimes friends have to go away, but a part of them stays behind with you.*  
 
-
+<h2 align="center">  ｡ ₊°༺❤︎༻°₊ ｡ </h2>
