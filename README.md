@@ -1,6 +1,6 @@
 <h2 align="center"> 𐔌՞. .՞𐦯 </h2>
 
-<h1 align="center"> I'm Yasmine </h1> 
+<h1 align="center"> I'm L </h1> 
 
 
 ![CS Student](https://img.shields.io/badge/Computer%20Science-Student-7C3AED?style=for-the-badge)
