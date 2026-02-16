@@ -7,7 +7,7 @@
 ![Web Dev](https://img.shields.io/badge/Web-Developer-2563EB?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Status-Building%20Quietly-38BDF8?style=for-the-badge)
 
-This profile is for work purposes.
+This profile is currently for work purposes. 
 
 A Computer Science student focused on building small, complete systems from frontend interfaces to automation workflows. Learning by shipping, breaking, and fixing.
 
