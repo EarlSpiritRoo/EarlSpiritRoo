@@ -19,7 +19,7 @@ I work on live Shopify and WordPress stores for real food and cookware brands. I
 ### 🛍️ Sites I work on
 
 - **Marion's Kitchen** (WordPress): I'm responsible for the whole site, from templates and custom fields to caching, security and tracking.
-- **Cook Dine Host** (Shopify): I support the senior developer, and built the templates and metafields myself.
+- **Cook Dine Host** (Shopify): I support the senior developer, and built the templates and metafields.
 - **MAKO** (Shopify): I supported the senior developer through the build, working on collections, articles and the contact form.
 
 ### 🧰 What I work with
