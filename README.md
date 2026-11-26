@@ -1,45 +1,64 @@
 <div align="center">
 
-### ( ˶ˆᗜˆ˵ )
+⊹ ࣪ ˖ ♡ ˖ ࣪ ⊹
 
-# I'm Yasmine
+# Hi, I'm Yasmine! ( ˶ˆᗜˆ˵ )
 
-![Web developer](https://img.shields.io/badge/web-developer-d6336c?style=for-the-badge)
-![Shopify and WordPress](https://img.shields.io/badge/shopify-wordpress-7c3aed?style=for-the-badge)
-![Based in Bangkok](https://img.shields.io/badge/based_in-bangkok-e0a800?style=for-the-badge)
+**Web Developer | MSc Computer Science**
 
-**[yasmine.page](https://yasmine.page)** · **[LinkedIn](https://www.linkedin.com/in/yasmine-5b1991107)** · **hello@yasmine.page**
+Bangkok, Thailand
+
+[Portfolio](https://yasmine.page) · [LinkedIn](https://www.linkedin.com/in/yasmine-5b1991107) · [Email](mailto:hello@yasmine.page)
 
 </div>
 
 ---
 
-I work on live Shopify and WordPress stores for real food and cookware brands. I'm at my best testing websites, spotting issues before customers do, and making the front end smoother. I'm also studying for an MSc in Computer Science at the University of York.
+### ♡ A little about me
 
-### 🛍️ Sites I work on
+I'm a web developer based in Bangkok, currently working with Shopify and WordPress.
 
-- **Marion's Kitchen** (WordPress): I'm responsible for the whole site, from templates and custom fields to caching, security and tracking.
-- **Cook Dine Host** (Shopify): I support the senior developer, and built the templates and metafields.
-- **MAKO** (Shopify): I supported the senior developer through the build, working on collections, articles and the contact form.
+I enjoy figuring out how things work, especially when they don't. Most of my work involves building, testing and troubleshooting live websites.
 
-### 🧰 What I work with
+I'm also studying for an MSc in Computer Science at the University of York.
 
-![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Shopify Liquid](https://img.shields.io/badge/Shopify_Liquid-7ab55c?style=flat-square&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759b?style=flat-square&logo=wordpress&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-e37400?style=flat-square&logo=googleanalytics&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+### ✦ What I do
 
-### 🌱 Learning now
+- Shopify theme development and Liquid customisation
+- WordPress development and maintenance
+- Debugging and third-party integrations
+- Technical SEO and website performance
+- Analytics and workflow automation
 
-- Git and GitHub workflows, one commit at a time
-- Computer science fundamentals through my MSc
+I currently work across **Marion's Kitchen, Cook Dine Host and MAKO Kitchenware.**
+
+### ✦ My toolbox
+
+![HTML](https://img.shields.io/badge/HTML-f8d7e5?style=flat-square&logo=html5&logoColor=333)
+![CSS](https://img.shields.io/badge/CSS-e5d5f5?style=flat-square&logo=css&logoColor=333)
+![JavaScript](https://img.shields.io/badge/JavaScript-f8d7e5?style=flat-square&logo=javascript&logoColor=333)
+![Liquid](https://img.shields.io/badge/Liquid-e5d5f5?style=flat-square&logo=shopify&logoColor=333)
+![Python](https://img.shields.io/badge/Python-f8d7e5?style=flat-square&logo=python&logoColor=333)
+![Shopify](https://img.shields.io/badge/Shopify-e5d5f5?style=flat-square&logo=shopify&logoColor=333)
+![WordPress](https://img.shields.io/badge/WordPress-f8d7e5?style=flat-square&logo=wordpress&logoColor=333)
+![Git](https://img.shields.io/badge/Git-e5d5f5?style=flat-square&logo=git&logoColor=333)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f8d7e5?style=flat-square&logo=cloudflare&logoColor=333)
+![GA4](https://img.shields.io/badge/GA4-e5d5f5?style=flat-square&logo=googleanalytics&logoColor=333)
+
+### ✦ Outside of work
+
+- Surviving my Computer Science MSc.
+- Experimenting with code and building little side projects.
+- Making websites that are both functional and pretty.
+
+---
 
 <div align="center">
 
-───── ✦ ─────
+───── ⋆⋅☆⋅⋆ ─────
+
+*Probably debugging something right now.*
+
+♡ 
 
 </div>
